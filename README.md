@@ -4,6 +4,8 @@
 
 Star Citizen Time Played Analyzer is a Python tool crafted to delve into Star Citizen logs, offering insights into gameplay duration per session and cumulative playtime across multiple sessions. This program harnesses the capabilities of the matplotlib library to graphically represent the analyzed data.
 
+![Example graph](https://i.imgur.com/xtKmTvV.jpg)
+
 ## Key Features
 
 - **Log Parsing:** Seamlessly extract pertinent data from Star Citizen logs for analysis.
