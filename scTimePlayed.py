@@ -40,7 +40,7 @@ def calculateTimeDifference(start_time, end_time):
     return time_difference
 
 def readLogFile(file_path):
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
         lines = file.readlines()
     
     # Find start and end timestamps of the session.
