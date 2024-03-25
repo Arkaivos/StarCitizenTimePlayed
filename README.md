@@ -20,10 +20,21 @@ Star Citizen Time Played Analyzer is a Python tool crafted to delve into Star Ci
 
 ## How to Use
 
+### Using Python Script:
+
 1. Clone the repository to your local machine.
 2. Ensure Python 3.x and matplotlib are installed.
 3. Open the program file and locate the line specifying the directory path within the code. Modify this path to point to the directory containing Star Citizen log files.
 4. Execute the program and let it analyze the logs.
+5. Review the generated output, including session durations and total playtime.
+6. Explore the graphical representation for deeper insights into gameplay patterns.
+
+### Using Executable (.exe):
+
+1. Download the executable file from the releases section of this repository.
+2. Copy the executable (.exe) file to the directory where your Star Citizen log files are located (`StarCitizen\LIVE\logbackups`).
+3. Double-click the executable file to run it.
+4. Allow the program to analyze the logs.
 5. Review the generated output, including session durations and total playtime.
 6. Explore the graphical representation for deeper insights into gameplay patterns.
 
