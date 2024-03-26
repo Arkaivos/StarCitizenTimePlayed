@@ -31,8 +31,8 @@ Star Citizen Time Played Analyzer is a Python tool crafted to delve into Star Ci
 
 ### Using Executable (.exe):
 
-1. Download the executable file from the releases section of this repository.
-2. Copy the executable (.exe) file to the directory where your Star Citizen log files are located (`StarCitizen\LIVE\logbackups`).
+1. Download the zip file containing the executable from the releases section of this repository.
+2. Unzip the executable file to the directory where your Star Citizen log files are located (`StarCitizen\LIVE\logbackups`).
 3. Double-click the executable file to run it.
 4. Allow the program to analyze the logs.
 5. Review the generated output, including session durations and total playtime.
